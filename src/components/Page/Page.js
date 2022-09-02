@@ -13,11 +13,11 @@ function Page() {
             <Header/>
             <Hero/>
             <div className={styles.content}>
-                <Intro/>
-                <History/>
-                <Contact/>
+                {/* <Intro/> */}
+                {/* <History/> */}
+                {/* <Contact/> */}
             </div>
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     );
 }
