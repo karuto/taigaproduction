@@ -3,6 +3,8 @@ import styles from './Intro.css';
 import * as Scroll from 'react-scroll';
 import { Link } from 'react-scroll';
 
+/*
+*/
 
 function Intro () {
 	return (
@@ -12,15 +14,15 @@ function Intro () {
 				<h2 className={styles.headingtext}>People first,<br/> influencers second</h2>
 			</div>
 			<p className={styles['intro--primary']}>
-				We are a cosplay influencer management agency, small-scale by choice.<br/><br/> 
-				We only operate in the cosplay niche with deep industry knowledge and connections.<br/><br/> 
-				We become friends with our creators first, partners and managers second.<br/><br/>
-				We geniunely care. That's the difference.<br/>
+				Hi, I'm Taiga!<br/><br/>
+				A professional cosplayer that has been active in the cosplay community for 12+ years.<br/><br/>
+				I run Taiga Production more like a family, to help my creator friends grow and excel.<br/><br/>
+				We are small by design. Because we geniunely care.<br/><br/>
 			</p>
 			<div className={styles['action--primary']}>
-				<Link activeClass="active" to="history" spy={true} smooth={true} offset={-50} duration={500} className={styles['link--primary']}>
-					<h4 className={styles.actionText}><a target="_blank" href="https://www.instagram.com/taiga765">Reach out ➡</a></h4>
-				</Link>
+				{/* <Link activeClass="active" to="history" spy={true} smooth={true} offset={-50} duration={500} className={styles['link--primary']}> */}
+					<h4 className={styles.actionText}><a href="https://www.instagram.com/taiga765">Reach out ➡</a></h4>
+				{/* </Link> */}
 			</div>
 		</section>
 		{/* <section className={styles['container--secondary']}>
