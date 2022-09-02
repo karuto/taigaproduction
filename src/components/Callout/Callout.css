@@ -1,0 +1,41 @@
+
+.callout {
+  background: white;
+  color: #BBB;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0 16px;
+}
+.shadow {
+  box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+}
+.theme {
+  background: rgb(50, 50, 93);
+  color: rgb(170, 183, 196);
+}
+.stretch {
+  margin: 0 -16px;
+}
+.calloutHeading {
+  margin: 0 auto 24px;
+  text-align: center;
+  padding: 32px 32px 24px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  font-weight: 300;
+  color: rgb(50, 50, 93);
+  border-bottom-color: rgb(246, 249, 252);
+}
+.calloutHeadingThemed {
+  composes: calloutHeading;
+  color: white;
+  border-bottom-color: rgba(85, 90, 191, 0.1)
+}
+.calloutHeadingText {
+  font-size: 21px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}

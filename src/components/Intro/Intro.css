@@ -1,0 +1,118 @@
+.container {
+  box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 24px;
+  border-radius: 4px;
+}
+.container--primary {
+  composes: container;
+  background: white;
+  margin: -16px 16px 0;
+}
+.container--secondary {
+  composes: container;
+  background: rgb(50, 50, 93);
+  margin: 0 32px 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  color: rgb(170, 183, 196);
+}
+.heading {
+  margin: 0 auto 24px;
+  text-align: center;
+  padding: 32px 32px 24px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  font-weight: 300;
+}
+.heading--primary {
+  composes: heading;
+  color: rgb(50, 50, 93);
+  border-bottom-color: rgb(246, 249, 252);
+}
+.heading--secondary {
+  composes: heading;
+  color: white;
+  border-bottom-color: rgba(85, 90, 191, 0.1)
+}
+.headingtext {
+  font-size: 21px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}
+.intro {
+  margin: 0;
+  padding: 0 32px;
+  display: flex;
+}
+.intro--primary {
+  composes: intro;
+  color: #444;
+}
+.intro--secondary {
+  composes: intro;
+  color: #BBB;
+  justify-content: space-evenly;
+}
+@media screen and (max-width: 767px) { /* mobile treatment */
+  .intro--secondary {
+    flex-direction: column;
+  }
+}
+.action {
+  margin: 16px auto 0;
+  padding: 32px;
+  transition: all 1s ease;
+}
+.link--primary,
+.link--primary:hover,
+.link--primary:active,
+.link--primary:visited {
+  color: rgb(50, 50, 93);
+  cursor: pointer;
+}
+.action--primary {
+  composes: action;
+  background: rgb(246, 249, 252);
+  color: rgb(50, 50, 93);
+}
+.action--primary:hover {
+  background: rgb(217, 229, 242); /* 10% darker */
+}
+.link--secondary,
+.link--secondary:hover,
+.link--secondary:active,
+.link--secondary:visited {
+  color: rgb(135, 187, 253);
+  cursor: pointer;
+}
+.action--secondary {
+  composes: action;
+  background: rgba(76, 80, 170, 0.2);
+  color: rgb(135, 187, 253);
+}
+.action--secondary:hover {
+  background: rgba(66, 70, 148, 0.2); /* 10% darker */
+}
+.actionText {
+  text-align: center;
+  font-size: 21px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}
+.subtitle {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  margin: 0;
+  padding: 0;
+}
+.list {
+  color: rgb(170, 183, 196);
+}

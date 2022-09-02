@@ -1,0 +1,22 @@
+.container {
+  height: 50vh;
+  width: 100%;
+  margin: -72px 0 0;
+  background-size: cover;
+  background-position: top;
+}
+.overlay {
+  height: 50vh;
+  width: 100%;
+  background: rgba(0, 0, 0, .7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.copyright {
+  color: white;
+  padding: 0 32px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+}
