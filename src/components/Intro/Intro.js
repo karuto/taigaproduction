@@ -16,7 +16,7 @@ function Intro () {
 			<p className={styles['intro--primary']}>
 				Hi, I'm Taiga!<br/><br/>
 				A professional cosplayer that has been active in the cosplay community for 12+ years.<br/><br/>
-				I run Taiga Production more like a family, to help my creator friends grow and excel.<br/><br/>
+				I founded Taiga Production to help my family of creator friends grow and excel.<br/><br/>
 				We are small by design. Because we geniunely care.<br/><br/>
 			</p>
 			<div className={styles['action--primary']}>
