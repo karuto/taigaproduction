@@ -7,8 +7,8 @@ const Header = () => {
         <header className={styles.container}>
             <div className={styles.content}>
 				<div className={styles.brand}>
-					<img className={styles.trademark} src={`dist/${trademark}`} />
-					<h1 className={styles.name}>北京东方华盛</h1>
+					{/* <img className={styles.trademark} src={`dist/${trademark}`} /> */}
+					<h1 className={styles.name}>Taiga Production</h1>
 				</div>
             </div>
         </header>
