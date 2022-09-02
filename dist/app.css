@@ -977,13 +977,11 @@ textarea {
 html {
     line-height: 1;
     background: #eee;
-    /* font-family: "Noto Serif","Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",serif; */
-    font-family: Helvetica Neue,Helvetica,-apple-system,BlinkMacSystemFont,Roboto,Arial,sans-serif;
+    font-family: Helvetica Neue,Helvetica,-apple-system,BlinkMacSystemFont,Arial,sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     line-height: 1;
-    /* font-family: Roboto,"Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",sans-serif; */
-    font-family: Helvetica Neue,Helvetica,-apple-system,BlinkMacSystemFont,Roboto,Arial,sans-serif;
+    font-family: Philosopher,San Francisco,"Times New Roman",Times,serif;
 }
 a,
 a:visited,
