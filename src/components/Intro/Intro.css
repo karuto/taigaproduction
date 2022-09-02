@@ -20,7 +20,6 @@
 }
 .heading {
   margin: 0 auto 24px;
-  text-align: center;
   padding: 32px 32px 24px;
   border-bottom-style: solid;
   border-bottom-width: 2px;
@@ -37,6 +36,7 @@
   border-bottom-color: rgba(85, 90, 191, 0.1)
 }
 .headingtext {
+  text-transform: uppercase;
   font-size: 21px;
   line-height: 24px;
   letter-spacing: 1px;

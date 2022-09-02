@@ -199,7 +199,6 @@ tr:nth-child(odd) {
 }
 .src-components-Intro-Intro__heading--1bIHQ {
   margin: 0 auto 24px;
-  text-align: center;
   padding: 32px 32px 24px;
   border-bottom-style: solid;
   border-bottom-width: 2px;
@@ -214,6 +213,7 @@ tr:nth-child(odd) {
   border-bottom-color: rgba(85, 90, 191, 0.1)
 }
 .src-components-Intro-Intro__headingtext--3zzpc {
+  text-transform: uppercase;
   font-size: 21px;
   line-height: 24px;
   letter-spacing: 1px;

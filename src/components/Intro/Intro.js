@@ -9,19 +9,21 @@ function Intro () {
 		<div>
 		<section className={styles['container--primary']}>
 			<div className={styles['heading--primary']}>
-				<h2 className={styles.headingtext}>北京东方华盛简介</h2>
+				<h2 className={styles.headingtext}>People first,<br/> influencers second</h2>
 			</div>
 			<p className={styles['intro--primary']}>
-				北京东方华盛科技有限公司成立于 2011 年 5 月 10 日，注册资金 3800 万元，是一般纳税人企业、国家高新技术企业、全国科技创新示范单位、AAA 级信用企业、重合同守信用企业。<br/><br/>
-				拥有全资分支机构：北京东方华盛科技有限公司西安分公司、仙桃华胜化工有限公司。公司资金充裕，生产经营稳定，社会信誉良好。
+				We are a cosplay influencer management agency, small-scale by choice.<br/><br/> 
+				We only operate in the cosplay niche with deep industry knowledge and connections.<br/><br/> 
+				We become friends with our creators first, partners and managers second.<br/><br/>
+				We geniunely care. That's the difference.<br/>
 			</p>
 			<div className={styles['action--primary']}>
 				<Link activeClass="active" to="history" spy={true} smooth={true} offset={-50} duration={500} className={styles['link--primary']}>
-					<h4 className={styles.actionText}>详细介绍 ➡</h4>
+					<h4 className={styles.actionText}><a target="_blank" href="https://www.instagram.com/taiga765">Reach out ➡</a></h4>
 				</Link>
 			</div>
 		</section>
-		<section className={styles['container--secondary']}>
+		{/* <section className={styles['container--secondary']}>
 			<div className={styles['heading--secondary']}>
 				<h2 className={styles.headingtext}>经营范围</h2>
 			</div>
@@ -49,7 +51,7 @@ function Intro () {
 					<h4 className={styles.actionText}>联系我们 ➡</h4>
 				</Link>
 			</div>
-		</section>
+		</section> */}
 		</div>
 	);
 }

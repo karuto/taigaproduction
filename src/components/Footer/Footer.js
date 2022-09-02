@@ -14,7 +14,7 @@ function Footer () {
         <footer style={{backgroundImage: `url('dist/${hero}')`}} className={styles.container}>
             <div className={styles.overlay}>
                 <h5 className={styles.copyright}>
-                    {`©${currentYear} 北京东方华盛科技有限公司 保留所有权利`}
+                    {`©${currentYear} Taiga Production | All rights reserved.`}
                 </h5>
             </div>
             {/* Made by <a href={links.homepage}>Vincent Zhang.</a>

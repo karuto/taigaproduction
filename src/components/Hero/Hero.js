@@ -7,7 +7,7 @@ function Hero () {
 		<div style={{backgroundImage: `url('dist/${hero}')`}} className={styles.container}>
 			<div className={styles.overlay}>
 				<h2 className={styles.slogan}>
-					A cosplay influencer marketing agency that focuses on <i>YOU</i>.
+					A cosplay influencer management agency that focuses on <i>YOU</i>.
 				</h2>
 			</div>
 		</div>
