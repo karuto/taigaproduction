@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Header.css';
-import trademark from '../../assets/trademark.png';
 
 const Header = () => {
     return (

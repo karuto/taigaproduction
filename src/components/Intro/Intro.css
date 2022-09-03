@@ -3,19 +3,22 @@
   overflow: hidden;
   font-size: 14px;
   line-height: 24px;
-  border-radius: 4px;
+  border-radius: 8px;
 }
 .container--primary {
   composes: container;
   background: white;
   margin: -16px 16px 0;
 }
+.container--intro {
+  composes: container--primary;
+  overflow: visible;
+}
 .container--secondary {
   composes: container;
   background: rgb(50, 50, 93);
   margin: 0 32px 0;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
+  border-radius: 8px 8px 0 0;
   color: rgb(170, 183, 196);
 }
 .heading {
@@ -29,6 +32,10 @@
   composes: heading;
   color: rgb(50, 50, 93);
   border-bottom-color: rgb(246, 249, 252);
+  background-size: cover;
+  background-position: 0% 20%;
+  border-radius: 8px 8px 0 0;
+  height: 300px;
 }
 .heading--secondary {
   composes: heading;
@@ -44,18 +51,41 @@
   padding: 0;
 }
 .intro {
-  margin: 0;
-  padding: 0 32px;
+  margin: 0 0 16px;
+  padding: 0;
   display: flex;
 }
 .intro--primary {
   composes: intro;
-  color: #444;
+  color: #83656f;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.intro--primaryhero {
+  composes: intro--primary;
+  font-size: 24px;
+  font-weight: 900;
 }
 .intro--secondary {
   composes: intro;
   color: #BBB;
   justify-content: space-evenly;
+}
+.content {
+  padding: 0 32px;
+  display: flex;
+  flex-direction: column;
+}
+.profile-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50px;
+  align-self: center;
+  margin: 0 0 32px;
+  /* float: right; */
+  /* margin: -20px -20px 0 0; */
+  background-size: cover;
+  background-position: center;
 }
 @media screen and (max-width: 767px) { /* mobile treatment */
   .intro--secondary {
@@ -78,6 +108,7 @@
   composes: action;
   background: rgb(246, 249, 252);
   color: rgb(50, 50, 93);
+  border-radius: 0 0 8px 8px;
 }
 .action--primary:hover {
   background: rgb(217, 229, 242); /* 10% darker */

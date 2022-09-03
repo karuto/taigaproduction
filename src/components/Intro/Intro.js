@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './Intro.css';
 import * as Scroll from 'react-scroll';
 import { Link } from 'react-scroll';
+import profileImage from '../../assets/taiga-gura.jpg';
 
 /*
 */
@@ -9,16 +10,26 @@ import { Link } from 'react-scroll';
 function Intro () {
 	return (
 		<div>
-		<section className={styles['container--primary']}>
-			<div className={styles['heading--primary']}>
-				<h2 className={styles.headingtext}>People first,<br/> influencers second</h2>
+		<section className={styles['container--intro']}>
+			<div className={styles['heading--primary']} style={{backgroundImage: `url('dist/${profileImage}')`}}>
+				{/* <h2 className={styles.headingtext}>People first,<br/> influencers second</h2> */}
 			</div>
-			<p className={styles['intro--primary']}>
-				Hi, I'm Taiga!<br/><br/>
-				A professional cosplayer that has been active in the cosplay community for 12+ years.<br/><br/>
-				I founded Taiga Production to help my family of creator friends grow and excel.<br/><br/>
-				We are small by design. Because we geniunely care.<br/><br/>
-			</p>
+			<div className={styles['content']}>
+				{/* <div className={styles['profile-image']} style={{backgroundImage: `url('dist/${profileImage}')`}}>
+				</div> */}
+				<p className={styles['intro--primaryhero']}>
+					Hi, I'm Taiga 👋
+				</p>
+				<p className={styles['intro--primary']}>
+					A professional cosplayer that has been active in the cosplay community for 12+ years.
+				</p>
+				<p className={styles['intro--primary']}>
+					I founded Taiga Production to help my family of creator friends grow and excel.
+				</p>
+				<p className={styles['intro--primary']}>
+					We are small by design. Because we geniunely care.
+				</p>
+			</div>
 			<div className={styles['action--primary']}>
 				{/* <Link activeClass="active" to="history" spy={true} smooth={true} offset={-50} duration={500} className={styles['link--primary']}> */}
 					<h4 className={styles.actionText}><a href="https://www.instagram.com/taiga765">Reach out ➡</a></h4>

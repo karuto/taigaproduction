@@ -1,16 +1,16 @@
 import React from 'react';
 import styles from './History.css';
 import Callout from '../Callout/Callout';
-import trademark from '../../assets/trademark.png';
-import logoCNPC from '../../assets/logo-cnpc.png';
-import logoSinopec from '../../assets/logo-sinopec.png';
-import logoYanchang from '../../assets/logo-yanchang.png';
-import cert1 from '../../assets/cert-1.png';
-import cert2 from '../../assets/cert-2.png';
-import cert3 from '../../assets/cert-3.png';
-import cert4 from '../../assets/cert-4.png';
-import cert5 from '../../assets/cert-5.png';
-import cert6 from '../../assets/cert-6.png';
+// import trademark from '../../assets/trademark.png';
+// import logoCNPC from '../../assets/logo-cnpc.png';
+// import logoSinopec from '../../assets/logo-sinopec.png';
+// import logoYanchang from '../../assets/logo-yanchang.png';
+// import cert1 from '../../assets/cert-1.png';
+// import cert2 from '../../assets/cert-2.png';
+// import cert3 from '../../assets/cert-3.png';
+// import cert4 from '../../assets/cert-4.png';
+// import cert5 from '../../assets/cert-5.png';
+// import cert6 from '../../assets/cert-6.png';
 import { Element } from 'react-scroll';
 
 function History () {
