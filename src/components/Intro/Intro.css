@@ -63,6 +63,7 @@
 }
 .intro--primaryhero {
   composes: intro--primary;
+  color: rgb(50, 50, 93);
   font-size: 24px;
   font-weight: 900;
 }

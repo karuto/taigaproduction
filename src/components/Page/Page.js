@@ -3,7 +3,8 @@ import Header from '../Header/Header';
 import Hero from '../Hero/Hero';
 import History from '../History/History';
 import Contact from '../Contact/Contact';
-import Intro from '../Intro/Intro';
+import Intro from '../Intro/Intro';;
+import Brands from '../Brands/Brands';
 import Footer from '../Footer/Footer';
 import styles from './Page.css';
 
@@ -14,6 +15,7 @@ function Page() {
             <Hero/>
             <div className={styles.content}>
                 <Intro/>
+                <Brands/>
                 {/* <History/> */}
                 {/* <Contact/> */}
             </div>

@@ -525,6 +525,78 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/assets/logo-arknights.png":
+/*!***************************************!*\
+  !*** ./src/assets/logo-arknights.png ***!
+  \***************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"4e15e76338dfe4aa84396b07a45e576d.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-arknights.png?");
+
+/***/ }),
+
+/***/ "./src/assets/logo-azur-lane.png":
+/*!***************************************!*\
+  !*** ./src/assets/logo-azur-lane.png ***!
+  \***************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"64fd24d868c3c3b3bfc4eca1f2daf0e6.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-azur-lane.png?");
+
+/***/ }),
+
+/***/ "./src/assets/logo-genshin.png":
+/*!*************************************!*\
+  !*** ./src/assets/logo-genshin.png ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"0779aaa026ee7cd9474aa4afac9687e3.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-genshin.png?");
+
+/***/ }),
+
+/***/ "./src/assets/logo-honkai-3rd.png":
+/*!****************************************!*\
+  !*** ./src/assets/logo-honkai-3rd.png ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"9821d64aa3846b5751a0910adaf67484.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-honkai-3rd.png?");
+
+/***/ }),
+
+/***/ "./src/assets/logo-honkai-star-rail.png":
+/*!**********************************************!*\
+  !*** ./src/assets/logo-honkai-star-rail.png ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"0ef904f97b35e7dbf5f33c8a3949035a.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-honkai-star-rail.png?");
+
+/***/ }),
+
+/***/ "./src/assets/logo-yostar.png":
+/*!************************************!*\
+  !*** ./src/assets/logo-yostar.png ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"f57a0f4a76db3762b7c252cdffaf09b3.png\");\n\n//# sourceURL=webpack:///./src/assets/logo-yostar.png?");
+
+/***/ }),
+
 /***/ "./src/assets/oil-refinery.jpg":
 /*!*************************************!*\
   !*** ./src/assets/oil-refinery.jpg ***!
@@ -546,6 +618,29 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"9f789480071618185415786ef38639aa.jpg\");\n\n//# sourceURL=webpack:///./src/assets/taiga-gura.jpg?");
+
+/***/ }),
+
+/***/ "./src/components/Brands/Brands.css":
+/*!******************************************!*\
+  !*** ./src/components/Brands/Brands.css ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\"src-components-Brands-Brands__container--2GkzZ\",\"title\":\"src-components-Brands-Brands__title--3UuiN\",\"brands\":\"src-components-Brands-Brands__brands--M_MeK\",\"brand\":\"src-components-Brands-Brands__brand--2rEvt\"};\n\n//# sourceURL=webpack:///./src/components/Brands/Brands.css?");
+
+/***/ }),
+
+/***/ "./src/components/Brands/Brands.js":
+/*!*****************************************!*\
+  !*** ./src/components/Brands/Brands.js ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n\tvalue: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Brands = __webpack_require__(/*! ./Brands.css */ \"./src/components/Brands/Brands.css\");\n\nvar _Brands2 = _interopRequireDefault(_Brands);\n\nvar _logoGenshin = __webpack_require__(/*! ../../assets/logo-genshin.png */ \"./src/assets/logo-genshin.png\");\n\nvar _logoGenshin2 = _interopRequireDefault(_logoGenshin);\n\nvar _logoYostar = __webpack_require__(/*! ../../assets/logo-yostar.png */ \"./src/assets/logo-yostar.png\");\n\nvar _logoYostar2 = _interopRequireDefault(_logoYostar);\n\nvar _logoArknights = __webpack_require__(/*! ../../assets/logo-arknights.png */ \"./src/assets/logo-arknights.png\");\n\nvar _logoArknights2 = _interopRequireDefault(_logoArknights);\n\nvar _logoAzurLane = __webpack_require__(/*! ../../assets/logo-azur-lane.png */ \"./src/assets/logo-azur-lane.png\");\n\nvar _logoAzurLane2 = _interopRequireDefault(_logoAzurLane);\n\nvar _logoHonkai3rd = __webpack_require__(/*! ../../assets/logo-honkai-3rd.png */ \"./src/assets/logo-honkai-3rd.png\");\n\nvar _logoHonkai3rd2 = _interopRequireDefault(_logoHonkai3rd);\n\nvar _logoHonkaiStarRail = __webpack_require__(/*! ../../assets/logo-honkai-star-rail.png */ \"./src/assets/logo-honkai-star-rail.png\");\n\nvar _logoHonkaiStarRail2 = _interopRequireDefault(_logoHonkaiStarRail);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Brands() {\n\treturn _react2.default.createElement(\n\t\t'section',\n\t\t{ className: _Brands2.default.container },\n\t\t_react2.default.createElement(\n\t\t\t'h2',\n\t\t\t{ className: _Brands2.default.title },\n\t\t\t'Brands we worked with'\n\t\t),\n\t\t_react2.default.createElement(\n\t\t\t'div',\n\t\t\t{ className: _Brands2.default.brands },\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoGenshin2.default }),\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoYostar2.default }),\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoAzurLane2.default }),\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoArknights2.default }),\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoHonkai3rd2.default }),\n\t\t\t_react2.default.createElement('img', { className: _Brands2.default.brand, src: 'dist/' + _logoHonkaiStarRail2.default })\n\t\t)\n\t);\n}\n\nexports.default = Brands;\n\n//# sourceURL=webpack:///./src/components/Brands/Brands.js?");
 
 /***/ }),
 
@@ -729,7 +824,7 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Header = __webpack_require__(/*! ../Header/Header */ \"./src/components/Header/Header.js\");\n\nvar _Header2 = _interopRequireDefault(_Header);\n\nvar _Hero = __webpack_require__(/*! ../Hero/Hero */ \"./src/components/Hero/Hero.js\");\n\nvar _Hero2 = _interopRequireDefault(_Hero);\n\nvar _History = __webpack_require__(/*! ../History/History */ \"./src/components/History/History.js\");\n\nvar _History2 = _interopRequireDefault(_History);\n\nvar _Contact = __webpack_require__(/*! ../Contact/Contact */ \"./src/components/Contact/Contact.js\");\n\nvar _Contact2 = _interopRequireDefault(_Contact);\n\nvar _Intro = __webpack_require__(/*! ../Intro/Intro */ \"./src/components/Intro/Intro.js\");\n\nvar _Intro2 = _interopRequireDefault(_Intro);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Page() {\n    return _react2.default.createElement(\n        'div',\n        { className: _Page2.default.container },\n        _react2.default.createElement(_Header2.default, null),\n        _react2.default.createElement(_Hero2.default, null),\n        _react2.default.createElement(\n            'div',\n            { className: _Page2.default.content },\n            _react2.default.createElement(_Intro2.default, null)\n        ),\n        _react2.default.createElement(_Footer2.default, null)\n    );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Header = __webpack_require__(/*! ../Header/Header */ \"./src/components/Header/Header.js\");\n\nvar _Header2 = _interopRequireDefault(_Header);\n\nvar _Hero = __webpack_require__(/*! ../Hero/Hero */ \"./src/components/Hero/Hero.js\");\n\nvar _Hero2 = _interopRequireDefault(_Hero);\n\nvar _History = __webpack_require__(/*! ../History/History */ \"./src/components/History/History.js\");\n\nvar _History2 = _interopRequireDefault(_History);\n\nvar _Contact = __webpack_require__(/*! ../Contact/Contact */ \"./src/components/Contact/Contact.js\");\n\nvar _Contact2 = _interopRequireDefault(_Contact);\n\nvar _Intro = __webpack_require__(/*! ../Intro/Intro */ \"./src/components/Intro/Intro.js\");\n\nvar _Intro2 = _interopRequireDefault(_Intro);\n\nvar _Brands = __webpack_require__(/*! ../Brands/Brands */ \"./src/components/Brands/Brands.js\");\n\nvar _Brands2 = _interopRequireDefault(_Brands);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n;\n\n\nfunction Page() {\n    return _react2.default.createElement(\n        'div',\n        { className: _Page2.default.container },\n        _react2.default.createElement(_Header2.default, null),\n        _react2.default.createElement(_Hero2.default, null),\n        _react2.default.createElement(\n            'div',\n            { className: _Page2.default.content },\n            _react2.default.createElement(_Intro2.default, null),\n            _react2.default.createElement(_Brands2.default, null)\n        ),\n        _react2.default.createElement(_Footer2.default, null)\n    );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
 
 /***/ }),
 
