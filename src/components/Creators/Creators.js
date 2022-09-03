@@ -1,4 +1,5 @@
 import React from 'react';
+import { Element } from 'react-scroll';
 import styles from './Creators.css';
 import hime1 from '../../assets/hime-1.jpg';
 import hime2 from '../../assets/hime-2.jpg';
@@ -42,12 +43,14 @@ function Creators () {
 	</div>);
 
     return (
-		<section className={styles.container}>
-			<h2 className={styles.title}>Meet our Creators</h2>
-			<div className={styles.creators}>
-				{creatorBlocks}
-			</div>
-		</section>
+		<Element name="creators">
+			<section className={styles.container}>
+				<h2 className={styles.title}>Meet our Creators</h2>
+				<div className={styles.creators}>
+					{creatorBlocks}
+				</div>
+			</section>
+		</Element>
     );
 }
 

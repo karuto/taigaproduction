@@ -39,6 +39,7 @@
 }
 .heading--secondary {
   composes: heading;
+  text-align: center;
   color: white;
   border-bottom-color: rgba(85, 90, 191, 0.1)
 }
@@ -55,20 +56,29 @@
   padding: 0;
   display: flex;
 }
-.intro--primary {
-  composes: intro;
+.p {
+  margin: 0 0 16px;
+  padding: 0;
   color: #83656f;
   font-size: 16px;
   line-height: 1.5;
 }
 .intro--primaryhero {
-  composes: intro--primary;
+  /* composes: intro--primary; */
   color: rgb(50, 50, 93);
   font-size: 24px;
   font-weight: 900;
 }
+.highlight {
+  color: rgb(50, 50, 93);
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0 8px 0 0;
+}
 .intro--secondary {
   composes: intro;
+  padding: 0 32px;
   color: #BBB;
   justify-content: space-evenly;
 }
@@ -140,8 +150,8 @@
 .subtitle {
   color: white;
   font-size: 16px;
-  font-weight: 700;
-  line-height: 16px;
+  font-weight: 900;
+  line-height: 1;
   margin: 0;
   padding: 0;
 }

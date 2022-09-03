@@ -215,6 +215,7 @@ tr:nth-child(odd) {
   height: 300px;
 }
 .src-components-Intro-Intro__heading--secondary--3W0AS {
+  text-align: center;
   color: white;
   border-bottom-color: rgba(85, 90, 191, 0.1)
 }
@@ -231,17 +232,28 @@ tr:nth-child(odd) {
   padding: 0;
   display: flex;
 }
-.src-components-Intro-Intro__intro--primary--14nte {
+.src-components-Intro-Intro__p--2bBRu {
+  margin: 0 0 16px;
+  padding: 0;
   color: #83656f;
   font-size: 16px;
   line-height: 1.5;
 }
 .src-components-Intro-Intro__intro--primaryhero--1-M_x {
+  /* composes: intro--primary; */
   color: rgb(50, 50, 93);
   font-size: 24px;
   font-weight: 900;
 }
+.src-components-Intro-Intro__highlight--2HjHm {
+  color: rgb(50, 50, 93);
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0 8px 0 0;
+}
 .src-components-Intro-Intro__intro--secondary--2wLUl {
+  padding: 0 32px;
   color: #BBB;
   justify-content: space-evenly;
 }
@@ -311,8 +323,8 @@ tr:nth-child(odd) {
 .src-components-Intro-Intro__subtitle--1wj-a {
   color: white;
   font-size: 16px;
-  font-weight: 700;
-  line-height: 16px;
+  font-weight: 900;
+  line-height: 1;
   margin: 0;
   padding: 0;
 }
