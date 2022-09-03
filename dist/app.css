@@ -264,20 +264,12 @@ tr:nth-child(odd) {
   display: flex;
   flex-direction: column;
 }
-.src-components-Intro-Intro__profile-image--29DJQ {
-  width: 250px;
-  height: 250px;
-  border-radius: 50px;
-  align-self: center;
-  margin: 0 0 32px;
-  /* float: right; */
-  /* margin: -20px -20px 0 0; */
-  background-size: cover;
-  background-position: center;
-}
 @media screen and (max-width: 767px) { /* mobile treatment */
   .src-components-Intro-Intro__intro--secondary--2wLUl {
     flex-direction: column;
+  }
+  .src-components-Intro-Intro__content--1ogf6 {
+    padding: 16px 32px;
   }
 }
 .src-components-Intro-Intro__action--36oXj {

@@ -88,20 +88,12 @@
   display: flex;
   flex-direction: column;
 }
-.profile-image {
-  width: 250px;
-  height: 250px;
-  border-radius: 50px;
-  align-self: center;
-  margin: 0 0 32px;
-  /* float: right; */
-  /* margin: -20px -20px 0 0; */
-  background-size: cover;
-  background-position: center;
-}
 @media screen and (max-width: 767px) { /* mobile treatment */
   .intro--secondary {
     flex-direction: column;
+  }
+  .content {
+    padding: 16px 32px;
   }
 }
 .action {
