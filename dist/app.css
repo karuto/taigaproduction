@@ -357,6 +357,84 @@ tr:nth-child(odd) {
   .src-components-Brands-Brands__brand--2rEvt:nth-child(even) {
     padding: 32px;
     background-color: rgb(50, 50, 93);
+    border-radius: 8px;
+  }
+}
+.src-components-Creators-Creators__container--37LPA {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 32px 0;
+}
+.src-components-Creators-Creators__title--3R5G_ {
+  color: rgb(50, 50, 93);
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1.25;
+  max-width: 80%;
+}
+.src-components-Creators-Creators__creators--2nCiK {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.src-components-Creators-Creators__creator--1-Ryg {
+  flex-direction: row;
+  align-items: center;
+  margin: 16px 0;
+}
+.src-components-Creators-Creators__creatorinfo--21PQo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 16px;
+  justify-content: space-between;
+  background-color: rgb(246, 249, 252);
+  box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+  border-radius: 8px;
+}
+.src-components-Creators-Creators__name--2INAH {
+  padding: 32px 48px;
+  margin: 0 16px 0 0;
+  font-size: 24px;
+  line-height: 32px;
+}
+.src-components-Creators-Creators__icon--AKzF9 {
+  padding: 32px;
+  height: 32px;
+  width: 32px;
+  fill: white;
+  background-color: rgb(50, 50, 93);
+  border-radius: 0 8px 8px 0;
+}
+.src-components-Creators-Creators__link--3Gb8p {
+
+}
+.src-components-Creators-Creators__creatorimgs--3qCYu {
+}
+.src-components-Creators-Creators__img--2Ryeg {
+  max-width: 400px;
+  margin: 16px;
+  padding: 0;
+  box-shadow: 16px 16px rgb(50, 50, 93);
+  border-radius: 8px;
+}
+/* .img1 {
+  composes: img;
+}
+.img2 {
+  composes: img;
+} */
+@media screen and (max-width: 767px) { /* mobile treatment */
+  .src-components-Creators-Creators__creator--1-Ryg {
+    flex-direction: column;
+  }
+  .src-components-Creators-Creators__creatorinfo--21PQo {
+    margin: 16px 16px 16px -16px;
+  }
+  .src-components-Creators-Creators__img--2Ryeg {
+    max-width: 80%;
   }
 }
 .src-components-Footer-Footer__container--3dfAC {

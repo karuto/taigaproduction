@@ -35,5 +35,6 @@
   .brand:nth-child(even) {
     padding: 32px;
     background-color: rgb(50, 50, 93);
+    border-radius: 8px;
   }
 }

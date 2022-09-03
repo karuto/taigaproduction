@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Footer.css';
-import hero from '../../assets/oil-refinery.jpg';
+import hero from '../../assets/hero-min.jpg';
 
 function Footer () {
     const links = {

@@ -5,6 +5,7 @@ import History from '../History/History';
 import Contact from '../Contact/Contact';
 import Intro from '../Intro/Intro';;
 import Brands from '../Brands/Brands';
+import Creators from '../Creators/Creators';
 import Footer from '../Footer/Footer';
 import styles from './Page.css';
 
@@ -16,6 +17,7 @@ function Page() {
             <div className={styles.content}>
                 <Intro/>
                 <Brands/>
+                <Creators/>
                 {/* <History/> */}
                 {/* <Contact/> */}
             </div>

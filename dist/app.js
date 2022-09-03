@@ -525,6 +525,54 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/assets/hime-1.jpg":
+/*!*******************************!*\
+  !*** ./src/assets/hime-1.jpg ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"ab55bdd4243f46d8baf23afc70cc3fc2.jpg\");\n\n//# sourceURL=webpack:///./src/assets/hime-1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/hime-2.jpg":
+/*!*******************************!*\
+  !*** ./src/assets/hime-2.jpg ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"f6a9265b3d06b43f73a6d13ac599afda.jpg\");\n\n//# sourceURL=webpack:///./src/assets/hime-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/kusa-1.jpg":
+/*!*******************************!*\
+  !*** ./src/assets/kusa-1.jpg ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"5d27665b4b1ec0227afc3f26da5f65cb.jpg\");\n\n//# sourceURL=webpack:///./src/assets/kusa-1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/kusa-2.jpg":
+/*!*******************************!*\
+  !*** ./src/assets/kusa-2.jpg ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"181b541f252240cf9e0e5966c8c24101.jpg\");\n\n//# sourceURL=webpack:///./src/assets/kusa-2.jpg?");
+
+/***/ }),
+
 /***/ "./src/assets/logo-arknights.png":
 /*!***************************************!*\
   !*** ./src/assets/logo-arknights.png ***!
@@ -597,18 +645,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
-/***/ "./src/assets/oil-refinery.jpg":
-/*!*************************************!*\
-  !*** ./src/assets/oil-refinery.jpg ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"f85fd3a80c5acf1dd38715158fdb0d7c.jpg\");\n\n//# sourceURL=webpack:///./src/assets/oil-refinery.jpg?");
-
-/***/ }),
-
 /***/ "./src/assets/taiga-gura.jpg":
 /*!***********************************!*\
   !*** ./src/assets/taiga-gura.jpg ***!
@@ -618,6 +654,30 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"9f789480071618185415786ef38639aa.jpg\");\n\n//# sourceURL=webpack:///./src/assets/taiga-gura.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/wendy-1.jpg":
+/*!********************************!*\
+  !*** ./src/assets/wendy-1.jpg ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"f4198700cd621a03a252b25c45cf2f81.jpg\");\n\n//# sourceURL=webpack:///./src/assets/wendy-1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/wendy-2.jpg":
+/*!********************************!*\
+  !*** ./src/assets/wendy-2.jpg ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"c555c69367e7eaf8e3a5c2606f6d1f2c.jpg\");\n\n//# sourceURL=webpack:///./src/assets/wendy-2.jpg?");
 
 /***/ }),
 
@@ -690,6 +750,29 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n\tvalue: true\n});\n
 
 /***/ }),
 
+/***/ "./src/components/Creators/Creators.css":
+/*!**********************************************!*\
+  !*** ./src/components/Creators/Creators.css ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\"src-components-Creators-Creators__container--37LPA\",\"title\":\"src-components-Creators-Creators__title--3R5G_\",\"creators\":\"src-components-Creators-Creators__creators--2nCiK\",\"creator\":\"src-components-Creators-Creators__creator--1-Ryg\",\"creatorinfo\":\"src-components-Creators-Creators__creatorinfo--21PQo\",\"name\":\"src-components-Creators-Creators__name--2INAH\",\"icon\":\"src-components-Creators-Creators__icon--AKzF9\",\"link\":\"src-components-Creators-Creators__link--3Gb8p\",\"creatorimgs\":\"src-components-Creators-Creators__creatorimgs--3qCYu src-components-Creators-Creators__creator--1-Ryg\",\"img\":\"src-components-Creators-Creators__img--2Ryeg\"};\n\n//# sourceURL=webpack:///./src/components/Creators/Creators.css?");
+
+/***/ }),
+
+/***/ "./src/components/Creators/Creators.js":
+/*!*********************************************!*\
+  !*** ./src/components/Creators/Creators.js ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n\tvalue: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Creators = __webpack_require__(/*! ./Creators.css */ \"./src/components/Creators/Creators.css\");\n\nvar _Creators2 = _interopRequireDefault(_Creators);\n\nvar _hime = __webpack_require__(/*! ../../assets/hime-1.jpg */ \"./src/assets/hime-1.jpg\");\n\nvar _hime2 = _interopRequireDefault(_hime);\n\nvar _hime3 = __webpack_require__(/*! ../../assets/hime-2.jpg */ \"./src/assets/hime-2.jpg\");\n\nvar _hime4 = _interopRequireDefault(_hime3);\n\nvar _kusa = __webpack_require__(/*! ../../assets/kusa-1.jpg */ \"./src/assets/kusa-1.jpg\");\n\nvar _kusa2 = _interopRequireDefault(_kusa);\n\nvar _kusa3 = __webpack_require__(/*! ../../assets/kusa-2.jpg */ \"./src/assets/kusa-2.jpg\");\n\nvar _kusa4 = _interopRequireDefault(_kusa3);\n\nvar _wendy = __webpack_require__(/*! ../../assets/wendy-1.jpg */ \"./src/assets/wendy-1.jpg\");\n\nvar _wendy2 = _interopRequireDefault(_wendy);\n\nvar _wendy3 = __webpack_require__(/*! ../../assets/wendy-2.jpg */ \"./src/assets/wendy-2.jpg\");\n\nvar _wendy4 = _interopRequireDefault(_wendy3);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Creators() {\n\tvar igIcon = _react2.default.createElement(\n\t\t'svg',\n\t\t{ xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 512 512' },\n\t\t_react2.default.createElement('path', { d: 'M338,54.63H174c-62.72,0-114,51.32-114,114V343.33c0,62.72,51.32,114,114,114H338c62.72,0,114-51.32,114-114V168.67C452,105.94,400.68,54.63,338,54.63Zm83.91,288.71A84.24,84.24,0,0,1,338,427.24H174a84.24,84.24,0,0,1-83.91-83.91V168.67A84.24,84.24,0,0,1,174,84.76H338a84.24,84.24,0,0,1,83.91,83.91Z' }),\n\t\t_react2.default.createElement('path', { d: 'M255.77,148.18A107.94,107.94,0,1,0,363.71,256.13,107.94,107.94,0,0,0,255.77,148.18Zm-.52,178.71a70.68,70.68,0,1,1,70.68-70.68A70.68,70.68,0,0,1,255.25,326.9Z' }),\n\t\t_react2.default.createElement('circle', { cx: '365.44', cy: '146.5', r: '25.56' })\n\t);\n\tvar creators = [{\n\t\tname: 'Wendy',\n\t\tlink: 'https://www.instagram.com/_wendydydydy/',\n\t\tfollowers: 325,\n\t\timg1: 'dist/' + _wendy2.default,\n\t\timg2: 'dist/' + _wendy4.default\n\t}, {\n\t\tname: 'Hime',\n\t\tlink: 'https://www.instagram.com/lovehimeking/',\n\t\tfollowers: 90.2,\n\t\timg1: 'dist/' + _hime2.default,\n\t\timg2: 'dist/' + _hime4.default\n\t}, {\n\t\tname: 'Kusa',\n\t\tlink: 'https://www.instagram.com/kusa_cos_/',\n\t\tfollowers: 7.8,\n\t\timg1: 'dist/' + _kusa2.default,\n\t\timg2: 'dist/' + _kusa4.default\n\t}];\n\tvar creatorBlocks = creators.map(function (c) {\n\t\treturn _react2.default.createElement(\n\t\t\t'div',\n\t\t\t{ className: _Creators2.default.creator },\n\t\t\t_react2.default.createElement(\n\t\t\t\t'a',\n\t\t\t\t{ target: '_blank', href: c.link },\n\t\t\t\t_react2.default.createElement(\n\t\t\t\t\t'div',\n\t\t\t\t\t{ className: _Creators2.default.creatorinfo },\n\t\t\t\t\t_react2.default.createElement(\n\t\t\t\t\t\t'h3',\n\t\t\t\t\t\t{ className: _Creators2.default.name },\n\t\t\t\t\t\tc.name\n\t\t\t\t\t),\n\t\t\t\t\t_react2.default.createElement(\n\t\t\t\t\t\t'div',\n\t\t\t\t\t\t{ className: _Creators2.default.icon },\n\t\t\t\t\t\tigIcon\n\t\t\t\t\t)\n\t\t\t\t)\n\t\t\t),\n\t\t\t_react2.default.createElement(\n\t\t\t\t'div',\n\t\t\t\t{ className: _Creators2.default.creatorimgs },\n\t\t\t\t_react2.default.createElement('img', { className: _Creators2.default.img, src: c.img1 }),\n\t\t\t\t_react2.default.createElement('img', { className: _Creators2.default.img, src: c.img2 })\n\t\t\t)\n\t\t);\n\t});\n\n\treturn _react2.default.createElement(\n\t\t'section',\n\t\t{ className: _Creators2.default.container },\n\t\t_react2.default.createElement(\n\t\t\t'h2',\n\t\t\t{ className: _Creators2.default.title },\n\t\t\t'Meet our Creators'\n\t\t),\n\t\t_react2.default.createElement(\n\t\t\t'div',\n\t\t\t{ className: _Creators2.default.creators },\n\t\t\tcreatorBlocks\n\t\t)\n\t);\n}\n\nexports.default = Creators;\n\n//# sourceURL=webpack:///./src/components/Creators/Creators.js?");
+
+/***/ }),
+
 /***/ "./src/components/Footer/Footer.css":
 /*!******************************************!*\
   !*** ./src/components/Footer/Footer.css ***!
@@ -709,7 +792,7 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Footer = __webpack_require__(/*! ./Footer.css */ \"./src/components/Footer/Footer.css\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _oilRefinery = __webpack_require__(/*! ../../assets/oil-refinery.jpg */ \"./src/assets/oil-refinery.jpg\");\n\nvar _oilRefinery2 = _interopRequireDefault(_oilRefinery);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Footer() {\n    var links = {\n        homepage: 'https://github.com/karuto',\n        github: 'https://github.com/karuto/github-static-site-template',\n        email: 'mailto:hi@vincentzh.com'\n    };\n    var currentYear = new Date().getFullYear();\n\n    return _react2.default.createElement(\n        'footer',\n        { style: { backgroundImage: 'url(\\'dist/' + _oilRefinery2.default + '\\')' }, className: _Footer2.default.container },\n        _react2.default.createElement(\n            'div',\n            { className: _Footer2.default.overlay },\n            _react2.default.createElement(\n                'h5',\n                { className: _Footer2.default.copyright },\n                '\\xA9' + currentYear + ' Taiga Production | All rights reserved.'\n            )\n        )\n    );\n};\n\nexports.default = Footer;\n\n//# sourceURL=webpack:///./src/components/Footer/Footer.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Footer = __webpack_require__(/*! ./Footer.css */ \"./src/components/Footer/Footer.css\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _heroMin = __webpack_require__(/*! ../../assets/hero-min.jpg */ \"./src/assets/hero-min.jpg\");\n\nvar _heroMin2 = _interopRequireDefault(_heroMin);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Footer() {\n    var links = {\n        homepage: 'https://github.com/karuto',\n        github: 'https://github.com/karuto/github-static-site-template',\n        email: 'mailto:hi@vincentzh.com'\n    };\n    var currentYear = new Date().getFullYear();\n\n    return _react2.default.createElement(\n        'footer',\n        { style: { backgroundImage: 'url(\\'dist/' + _heroMin2.default + '\\')' }, className: _Footer2.default.container },\n        _react2.default.createElement(\n            'div',\n            { className: _Footer2.default.overlay },\n            _react2.default.createElement(\n                'h5',\n                { className: _Footer2.default.copyright },\n                '\\xA9' + currentYear + ' Taiga Production | All rights reserved.'\n            )\n        )\n    );\n};\n\nexports.default = Footer;\n\n//# sourceURL=webpack:///./src/components/Footer/Footer.js?");
 
 /***/ }),
 
@@ -824,7 +907,7 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Header = __webpack_require__(/*! ../Header/Header */ \"./src/components/Header/Header.js\");\n\nvar _Header2 = _interopRequireDefault(_Header);\n\nvar _Hero = __webpack_require__(/*! ../Hero/Hero */ \"./src/components/Hero/Hero.js\");\n\nvar _Hero2 = _interopRequireDefault(_Hero);\n\nvar _History = __webpack_require__(/*! ../History/History */ \"./src/components/History/History.js\");\n\nvar _History2 = _interopRequireDefault(_History);\n\nvar _Contact = __webpack_require__(/*! ../Contact/Contact */ \"./src/components/Contact/Contact.js\");\n\nvar _Contact2 = _interopRequireDefault(_Contact);\n\nvar _Intro = __webpack_require__(/*! ../Intro/Intro */ \"./src/components/Intro/Intro.js\");\n\nvar _Intro2 = _interopRequireDefault(_Intro);\n\nvar _Brands = __webpack_require__(/*! ../Brands/Brands */ \"./src/components/Brands/Brands.js\");\n\nvar _Brands2 = _interopRequireDefault(_Brands);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n;\n\n\nfunction Page() {\n    return _react2.default.createElement(\n        'div',\n        { className: _Page2.default.container },\n        _react2.default.createElement(_Header2.default, null),\n        _react2.default.createElement(_Hero2.default, null),\n        _react2.default.createElement(\n            'div',\n            { className: _Page2.default.content },\n            _react2.default.createElement(_Intro2.default, null),\n            _react2.default.createElement(_Brands2.default, null)\n        ),\n        _react2.default.createElement(_Footer2.default, null)\n    );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Header = __webpack_require__(/*! ../Header/Header */ \"./src/components/Header/Header.js\");\n\nvar _Header2 = _interopRequireDefault(_Header);\n\nvar _Hero = __webpack_require__(/*! ../Hero/Hero */ \"./src/components/Hero/Hero.js\");\n\nvar _Hero2 = _interopRequireDefault(_Hero);\n\nvar _History = __webpack_require__(/*! ../History/History */ \"./src/components/History/History.js\");\n\nvar _History2 = _interopRequireDefault(_History);\n\nvar _Contact = __webpack_require__(/*! ../Contact/Contact */ \"./src/components/Contact/Contact.js\");\n\nvar _Contact2 = _interopRequireDefault(_Contact);\n\nvar _Intro = __webpack_require__(/*! ../Intro/Intro */ \"./src/components/Intro/Intro.js\");\n\nvar _Intro2 = _interopRequireDefault(_Intro);\n\nvar _Brands = __webpack_require__(/*! ../Brands/Brands */ \"./src/components/Brands/Brands.js\");\n\nvar _Brands2 = _interopRequireDefault(_Brands);\n\nvar _Creators = __webpack_require__(/*! ../Creators/Creators */ \"./src/components/Creators/Creators.js\");\n\nvar _Creators2 = _interopRequireDefault(_Creators);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n;\n\n\nfunction Page() {\n    return _react2.default.createElement(\n        'div',\n        { className: _Page2.default.container },\n        _react2.default.createElement(_Header2.default, null),\n        _react2.default.createElement(_Hero2.default, null),\n        _react2.default.createElement(\n            'div',\n            { className: _Page2.default.content },\n            _react2.default.createElement(_Intro2.default, null),\n            _react2.default.createElement(_Brands2.default, null),\n            _react2.default.createElement(_Creators2.default, null)\n        ),\n        _react2.default.createElement(_Footer2.default, null)\n    );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
 
 /***/ }),
 
