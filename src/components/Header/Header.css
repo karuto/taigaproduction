@@ -1,8 +1,8 @@
 .container {
   width: 100%;
   padding: 16px 0;
-  /* position: fixed; */
-  background: white;
+  color: white;
+  background: rgb(50, 50, 93);
 }
 .content {
   max-width: 960px;
@@ -21,8 +21,9 @@
 }
 .name {
   font-weight: 900;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
+  text-transform: up;
   margin: 0;
   padding: 0;
 }
