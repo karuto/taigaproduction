@@ -7,7 +7,7 @@ const Header = () => {
             <div className={styles.content}>
 				<div className={styles.brand}>
 					{/* <img className={styles.trademark} src={`dist/${trademark}`} /> */}
-					<h1 className={styles.name}>Taiga Production</h1>
+					<h1 className={styles.name}>Taiga Productions</h1>
 				</div>
             </div>
         </header>

@@ -12,7 +12,7 @@ function Intro () {
 			<div className={styles['heading--primary']} style={{backgroundImage: `url('dist/${profileImage}')`}}></div>
 			<div className={styles.content}>
 				<p className={styles.p}><span className={styles.highlight}>Hi, I'm Taiga 👋</span>a professional cosplayer that has been active in the cosplay community for 12+ years.</p>
-				<p className={styles.p}>I founded Taiga Production to help my family of creator friends grow and excel.</p>
+				<p className={styles.p}>I founded Taiga Productions to help my family of creator friends grow and excel.</p>
 				<p className={styles.p}>We are small by design. Because we geniunely care.</p>
 			</div>
 			<div className={styles['action--primary']}>
